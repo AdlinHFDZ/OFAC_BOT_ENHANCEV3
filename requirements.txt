@@ -1,0 +1,15 @@
+# OFAC Scanner - Python package requirements
+# Install with: pip install -r requirements.txt
+# Python 3.10 or newer required (3.11/3.12 recommended)
+
+polars>=1.0
+xlsxwriter>=3.0
+fastexcel>=0.10
+openpyxl>=3.1
+msoffcrypto-tool>=5.0
+python-dateutil>=2.8
+ttkbootstrap>=1.10
+watchdog>=4.0
+clevercsv>=0.8
+chardet>=5.0
+tkinterdnd2>=0.3.0
